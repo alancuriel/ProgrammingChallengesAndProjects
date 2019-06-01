@@ -1,0 +1,14 @@
+c:\Users\ALANC\source\repos\binaryConverter\bin\Release\netcoreapp2.1\win10-x64\hostpolicy.dll
+c:\Users\ALANC\source\repos\binaryConverter\bin\Release\netcoreapp2.1\win10-x64\hostfxr.dll
+c:\Users\ALANC\source\repos\binaryConverter\bin\Release\netcoreapp2.1\win10-x64\binaryConverter.exe
+c:\Users\ALANC\source\repos\binaryConverter\bin\Release\netcoreapp2.1\win10-x64\binaryConverter.deps.json
+c:\Users\ALANC\source\repos\binaryConverter\bin\Release\netcoreapp2.1\win10-x64\binaryConverter.runtimeconfig.json
+c:\Users\ALANC\source\repos\binaryConverter\bin\Release\netcoreapp2.1\win10-x64\binaryConverter.runtimeconfig.dev.json
+c:\Users\ALANC\source\repos\binaryConverter\bin\Release\netcoreapp2.1\win10-x64\binaryConverter.dll
+c:\Users\ALANC\source\repos\binaryConverter\bin\Release\netcoreapp2.1\win10-x64\binaryConverter.pdb
+c:\Users\ALANC\source\repos\binaryConverter\obj\Release\netcoreapp2.1\win10-x64\binaryConverter.csprojAssemblyReference.cache
+c:\Users\ALANC\source\repos\binaryConverter\obj\Release\netcoreapp2.1\win10-x64\binaryConverter.csproj.CoreCompileInputs.cache
+c:\Users\ALANC\source\repos\binaryConverter\obj\Release\netcoreapp2.1\win10-x64\binaryConverter.AssemblyInfoInputs.cache
+c:\Users\ALANC\source\repos\binaryConverter\obj\Release\netcoreapp2.1\win10-x64\binaryConverter.AssemblyInfo.cs
+c:\Users\ALANC\source\repos\binaryConverter\obj\Release\netcoreapp2.1\win10-x64\binaryConverter.dll
+c:\Users\ALANC\source\repos\binaryConverter\obj\Release\netcoreapp2.1\win10-x64\binaryConverter.pdb

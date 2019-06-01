@@ -1,0 +1,64 @@
+{
+  "format": 1,
+  "restore": {
+    "c:\\Users\\ALANC\\source\\repos\\binaryConverter\\binaryConverter.csproj": {}
+  },
+  "projects": {
+    "c:\\Users\\ALANC\\source\\repos\\binaryConverter\\binaryConverter.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\ALANC\\source\\repos\\binaryConverter\\binaryConverter.csproj",
+        "projectName": "binaryConverter",
+        "projectPath": "c:\\Users\\ALANC\\source\\repos\\binaryConverter\\binaryConverter.csproj",
+        "packagesPath": "C:\\Users\\ALANC\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\ALANC\\source\\repos\\binaryConverter\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ALANC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.11, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      },
+      "runtimes": {
+        "win10-x64": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

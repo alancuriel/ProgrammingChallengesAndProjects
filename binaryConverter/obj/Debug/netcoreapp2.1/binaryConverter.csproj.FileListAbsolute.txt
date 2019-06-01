@@ -1,0 +1,11 @@
+C:\Users\ALANC\source\repos\binaryConverter\bin\Debug\netcoreapp2.1\binaryConverter.deps.json
+C:\Users\ALANC\source\repos\binaryConverter\bin\Debug\netcoreapp2.1\binaryConverter.runtimeconfig.json
+C:\Users\ALANC\source\repos\binaryConverter\bin\Debug\netcoreapp2.1\binaryConverter.runtimeconfig.dev.json
+c:\Users\ALANC\source\repos\binaryConverter\bin\Debug\netcoreapp2.1\binaryConverter.dll
+c:\Users\ALANC\source\repos\binaryConverter\bin\Debug\netcoreapp2.1\binaryConverter.pdb
+c:\Users\ALANC\source\repos\binaryConverter\obj\Debug\netcoreapp2.1\binaryConverter.csprojAssemblyReference.cache
+c:\Users\ALANC\source\repos\binaryConverter\obj\Debug\netcoreapp2.1\binaryConverter.csproj.CoreCompileInputs.cache
+c:\Users\ALANC\source\repos\binaryConverter\obj\Debug\netcoreapp2.1\binaryConverter.AssemblyInfoInputs.cache
+c:\Users\ALANC\source\repos\binaryConverter\obj\Debug\netcoreapp2.1\binaryConverter.AssemblyInfo.cs
+c:\Users\ALANC\source\repos\binaryConverter\obj\Debug\netcoreapp2.1\binaryConverter.dll
+c:\Users\ALANC\source\repos\binaryConverter\obj\Debug\netcoreapp2.1\binaryConverter.pdb
