@@ -1,0 +1,11 @@
+C:\Users\ALANC\source\repos\ProgrammingChallengesAndProjects\SieveOfEratosthenes\bin\Debug\netcoreapp2.1\SieveOfEratosthenes.deps.json
+C:\Users\ALANC\source\repos\ProgrammingChallengesAndProjects\SieveOfEratosthenes\bin\Debug\netcoreapp2.1\SieveOfEratosthenes.runtimeconfig.json
+C:\Users\ALANC\source\repos\ProgrammingChallengesAndProjects\SieveOfEratosthenes\bin\Debug\netcoreapp2.1\SieveOfEratosthenes.runtimeconfig.dev.json
+C:\Users\ALANC\source\repos\ProgrammingChallengesAndProjects\SieveOfEratosthenes\bin\Debug\netcoreapp2.1\SieveOfEratosthenes.dll
+C:\Users\ALANC\source\repos\ProgrammingChallengesAndProjects\SieveOfEratosthenes\bin\Debug\netcoreapp2.1\SieveOfEratosthenes.pdb
+C:\Users\ALANC\source\repos\ProgrammingChallengesAndProjects\SieveOfEratosthenes\obj\Debug\netcoreapp2.1\SieveOfEratosthenes.csprojAssemblyReference.cache
+C:\Users\ALANC\source\repos\ProgrammingChallengesAndProjects\SieveOfEratosthenes\obj\Debug\netcoreapp2.1\SieveOfEratosthenes.csproj.CoreCompileInputs.cache
+C:\Users\ALANC\source\repos\ProgrammingChallengesAndProjects\SieveOfEratosthenes\obj\Debug\netcoreapp2.1\SieveOfEratosthenes.AssemblyInfoInputs.cache
+C:\Users\ALANC\source\repos\ProgrammingChallengesAndProjects\SieveOfEratosthenes\obj\Debug\netcoreapp2.1\SieveOfEratosthenes.AssemblyInfo.cs
+C:\Users\ALANC\source\repos\ProgrammingChallengesAndProjects\SieveOfEratosthenes\obj\Debug\netcoreapp2.1\SieveOfEratosthenes.dll
+C:\Users\ALANC\source\repos\ProgrammingChallengesAndProjects\SieveOfEratosthenes\obj\Debug\netcoreapp2.1\SieveOfEratosthenes.pdb
